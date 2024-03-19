@@ -1,5 +1,8 @@
 /*
-Author: Kirsten Hefney
+Khefney
+  (\(\  
+  ( -.-) 
+ o_(")(")
 Description: This Java program defines an `Author` class with attributes `firstName` and `lastName`,
 along with constructors, getters, setters, and a `toString()` method for representing author objects.
 The class encapsulates the properties of an author, allowing for the creation, modification, and retrieval of
