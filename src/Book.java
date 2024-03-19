@@ -1,5 +1,8 @@
 /*
-Author: Kirsten Hefney
+Khefney
+  (\(\  
+  ( -.-) 
+ o_(")(")
 Description: This Java program defines a `Book` class representing books, with attributes like
 `author`, `title`, `year`, `publisher`, `genre`, `rating`, and `price`. It includes constructors, getters, setters, and a `toString()` method for managing book details.
 The class also incorporates an `Author` object to represent the book's author,
