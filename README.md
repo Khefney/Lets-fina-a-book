@@ -40,9 +40,6 @@ Follow the prompts to perform searches based on your criteria.
 
 This project has no external dependencies beyond the Java standard library.
 
-## Contributions
-
-Contributions to LetsFindABook are welcome! Feel free to submit issues for bugs or feature requests. If you'd like to contribute code, please fork the repository, make your changes, and submit a pull request.
 
 ## License
 
