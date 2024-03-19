@@ -1,7 +1,5 @@
 /*
 Author: Kirsten Hefney
-Class: COMP167.001
-Due Date: Feburary 25th, 2024
 Description: This Java program defines an `Author` class with attributes `firstName` and `lastName`,
 along with constructors, getters, setters, and a `toString()` method for representing author objects.
 The class encapsulates the properties of an author, allowing for the creation, modification, and retrieval of

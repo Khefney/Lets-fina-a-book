@@ -1,7 +1,5 @@
 /*
 Author: Kirsten Hefney
-Class: COMP167.001
-Due Date: Feburary 25th, 2024
 Description: This Java program defines a `Book` class representing books, with attributes like
 `author`, `title`, `year`, `publisher`, `genre`, `rating`, and `price`. It includes constructors, getters, setters, and a `toString()` method for managing book details.
 The class also incorporates an `Author` object to represent the book's author,

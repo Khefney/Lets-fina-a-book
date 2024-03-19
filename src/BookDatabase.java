@@ -1,7 +1,5 @@
 /*
 Author: Kirsten Hefney
-Class: COMP167.001
-Due Date: Feburary 25th, 2024
 Description: This Java program defines a `BookDatabase` class for managing a collection of books stored in an `ArrayList`.
 It includes methods for adding and removing books, searching for books by author, publication year, or genre,
 and getters and setters for accessing and modifying the book collection.
