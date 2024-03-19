@@ -1,5 +1,5 @@
 /*
-Author: Kirsten Hefney
+Author: Khefney
 Description: This Java program represents a client program that utilizes a `BookDatabase` to manage and
 search a collection of books. It first reads data from a CSV file, populating the `BookDatabase` with books.
 Then, it prompts the user to choose a search criteria (by author, year range, or genre) and performs the
